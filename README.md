@@ -14,9 +14,10 @@ ensure lockpick
 
 
 Add items to your SQL
-provision_jail_keys
-consumable_lock_breaker
-doctor_keys
+
+provision_jail_keys,
+consumable_lock_breaker,
+doctor_keys,
 
 
 Good to go
