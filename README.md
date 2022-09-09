@@ -10,8 +10,10 @@
 ## Installation
 1. Download this repo/codebase
 2. Extract and place `gum_doorlocks` into your `resources` folder
-3. Add `ensure gum_doorlocks` to your `server.cfg` file
-4. Restart your server (unless you have nightly restarts)
+3. Extract and place `lockpick to your 'resources' folder
+4. Add `ensure gum_doorlocks` to your `server.cfg` file
+5. Add `ensure lockpick` to your `server.cfg` file
+6. Restart your server (unless you have nightly restarts)
 
 ## Dependency
 - [lockpick](https://github.com/VoidZero69/lockpick)
